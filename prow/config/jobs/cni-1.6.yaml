@@ -1,6 +1,6 @@
 branches:
 - release-1.6
-image: gcr.io/istio-testing/build-tools:master-2020-10-15T20-33-46
+image: gcr.io/istio-testing/build-tools:master-2020-10-29T04-59-27
 jobs:
 - command:
   - entrypoint
